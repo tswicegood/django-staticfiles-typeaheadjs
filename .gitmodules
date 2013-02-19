@@ -1,0 +1,3 @@
+[submodule "vendor/typeahead.js"]
+	path = vendor/typeahead.js
+	url = git://github.com/twitter/typeahead.js.git
