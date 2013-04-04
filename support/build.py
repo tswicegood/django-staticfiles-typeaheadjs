@@ -5,7 +5,7 @@ packages it as a Django app for use with Django staticfiles.
 import subprocess
 import sys
 
-DEFAULT_VERSION = "0.8.0"
+DEFAULT_VERSION = "0.9.1"
 
 
 def cp(src):
